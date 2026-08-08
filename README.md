@@ -46,7 +46,7 @@
 ### 🚌 Bus Reservation System
 Console-based reservation system built with Java and JDBC, backed by MySQL.
 **Tech Stack** `Java` `JDBC` `MySQL` `Git`
-🔗 Repository: [GitHub]
+🔗 Repository: (https://github.com/Raahul-08/JDBC/tree/main/src/BusResv)
 
 
 <h3 align="center">⭐ Thanks for visiting! ⭐</h3>
