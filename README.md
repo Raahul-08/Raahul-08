@@ -23,10 +23,10 @@
   <a href="mailto:raahulrm@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[LinkedIn URL]">
+  <a href="www.linkedin.com/in/raahul08">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[GitHub URL]">
+  <a href="https://github.com/Raahul-08">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -48,19 +48,5 @@ Console-based reservation system built with Java and JDBC, backed by MySQL.
 **Tech Stack** `Java` `JDBC` `MySQL` `Git`
 🔗 Repository: [GitHub]
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
 
 <h3 align="center">⭐ Thanks for visiting! ⭐</h3>
